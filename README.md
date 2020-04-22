@@ -4,7 +4,7 @@ by Ollie Downs, Michael Steckler, Chelsea Shu, and Emma Russon
 This is the final project for UC Berkeley's Data Visualization class, taught by John Alexis Guerra Gómez, for the MIDS program. Click on the following links to view our video demo and website.
 
 
-[Video]()
+[Video](https://www.youtube.com/watch?v=C4ye1_IRQ1E&feature=youtu.be)
 
 
 [Website](http://people.ischool.berkeley.edu/~erusson/spotifystreams/index.html)
