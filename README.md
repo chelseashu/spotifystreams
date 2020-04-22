@@ -1,3 +1,5 @@
+# **Spotify Streaming Trends**
+
 This is the final project for UC Berkeley's Data Visualization class, taught by John Alexis Guerra Gómez in the Data Science Masters (MIDS) program.
 
 [Video]()
