@@ -1,6 +1,7 @@
-# **Spotify Streaming Trends**
+# **Spotify Streaming Trends** 
+by Ollie Downs, Michael Steckler, Chelsea Shu, and Emma Russon
 
-This is the final project for UC Berkeley's Data Visualization class, taught by John Alexis Guerra Gómez in the Data Science Masters (MIDS) program.
+This is the final project for UC Berkeley's Data Visualization class, taught by John Alexis Guerra Gómez, for the MIDS program. 
 
 [Video]()
 
