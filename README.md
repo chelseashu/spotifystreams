@@ -9,10 +9,12 @@ This is the final project for UC Berkeley's Data Visualization class, taught by 
 
 [Website](http://people.ischool.berkeley.edu/~erusson/spotifystreams/index.html)
 
-
+<br />
 
 ![](spotify_gif.gif)
 
+
+<br />
 
 
 The Spotify Streaming Trends site is a website that allows Spotify executives to understand and analyze trends to promote informed business decisions. We use the dataset that includes the top 200 songs per day in 2017. Here is the breakdown of the website and the insights found:
