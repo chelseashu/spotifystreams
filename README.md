@@ -1,9 +1,9 @@
 This is the final project for UC Berkeley's Data Visualization class, taught by John Alexis Guerra Gómez in the Data Science Masters (MIDS) program.
 
-[Video] ()
+[Video]()
 
 
-[Website] (http://people.ischool.berkeley.edu/~erusson/spotifystreams/index.html)
+[Website](http://people.ischool.berkeley.edu/~erusson/spotifystreams/index.html)
 
 
 
