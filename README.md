@@ -31,5 +31,19 @@ The **Gender in Streams** page was created by Emma Russon. She found that differ
 
 To view this website locally on your server, use the following commands. 
 
-```git clone 
+Open up the command line and create a new directory.
+```mkdir spotify
+cd spotify```
+
+
+Clone this repository.
+```git clone https://github.com/chelseashu/spotifystreams.git```
+
+Run the following command.
+```python -m http.server```
+
+Open up your browser and tyoe the following into your search bar. 
+```localhost:8000```
+
+
 
