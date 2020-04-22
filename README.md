@@ -9,6 +9,7 @@ This is the final project for UC Berkeley's Data Visualization class, taught by 
 [Video]()
 
 
+![](spotify_gif.gif)
 
 
 
