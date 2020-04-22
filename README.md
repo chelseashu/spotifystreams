@@ -59,7 +59,7 @@ Run the following command.
 ```python -m http.server```
 
 
-Open up your browser and tyoe the following into your search bar. 
+Open up your browser and type the following into your search bar. 
 
 ```localhost:8000```
 
