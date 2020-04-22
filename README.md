@@ -33,6 +33,8 @@ The **Sentiment Analysis and NLP Algorithm** page was created by Chelsea Shu. Sh
 The **Gender in Streams** page was created by Emma Russon. She found that different metrics for popularity lead to different actionable insights, while shining light on the gender disparities in the music industry.
 
 
+
+
 **How to Open Up the Website Locally**
 
 
@@ -53,7 +55,7 @@ Clone this repository.
 
 Change directories again.
 
-``cd spotifystreams/html code```
+```cd spotifystreams/html code```
 
 
 Run the following command.
