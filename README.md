@@ -24,3 +24,7 @@ The **Sentiment Analysis and NLP Algorithm** page was created by Chelsea Shu. Sh
 
 
 The **Gender in Streams** page was created by Emma Russon. She found that different metrics for popularity lead to different actionable insights, while shining light on the gender disparities in the music industry.
+
+
+To view this website locally on your server, use the following commands. 
+
