@@ -3,10 +3,12 @@ by Ollie Downs, Michael Steckler, Chelsea Shu, and Emma Russon
 
 This is the final project for UC Berkeley's Data Visualization class, taught by John Alexis Guerra Gómez, for the MIDS program. Click on the following links to view our video demo and website.
 
-[Website](http://people.ischool.berkeley.edu/~erusson/spotifystreams/index.html)
-
 
 [Video]()
+
+
+[Website](http://people.ischool.berkeley.edu/~erusson/spotifystreams/index.html)
+
 
 
 ![](spotify_gif.gif)
@@ -28,4 +30,6 @@ The **Gender in Streams** page was created by Emma Russon. She found that differ
 
 
 To view this website locally on your server, use the following commands. 
+
+```git clone 
 
